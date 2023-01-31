@@ -1,17 +1,18 @@
 <h1 align="center">Hello, World! I'm Khushi Gupta.</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
+### Summary
+A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi018&label=Profile%20views&color=0e75b6&style=flat" alt="khushi018" /> </p>
-
-<p align="left"> <a href="https://twitter.com/khushig15739915" target="blank"><img src="https://img.shields.io/twitter/follow/khushig15739915?logo=twitter&style=for-the-badge" alt="khushig15739915" /></a> </p>
-
-- 🌱 I’m currently learning **Javascript and C++.**
-
-- 💬 Let's discuss about **Open Source,Frontend and CP.**
+- 💬 Let's talk about **Open Source,Frontend and CP.**
 
 - 📫 How to reach me **khushigupta.of@gmail.com**
 
-- ⚡ Fun fact **Just like the Life, I'm also short.**
+- ⚡ Fun fact **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
