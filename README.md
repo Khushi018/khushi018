@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta.</h1>
 <h3 align="center">Java Backend Developer</h3>
-<div align="center">
+<!-- <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
-</div>
+</div> -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi018&label=Profile%20views&color=0e75b6&style=flat" alt="khushi018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi018" alt="khushi018" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/khushi018g" target="blank"><img src="https://img.shields.io/twitter/follow/khushi018g?logo=twitter&style=for-the-badge" alt="khushi018g" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/khushi018g" target="blank"><img src="https://img.shields.io/twitter/follow/khushi018g?logo=twitter&style=for-the-badge" alt="khushi018g" /></a> </p> -->
 
 - 🔭 I’m currently working on **Currency Converter Program**
 
