@@ -1,52 +1,168 @@
-<h1 align="center">Hi 👋, I am Abhijeet Sharma </h1>
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
-</div>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
+<div align="justify">
+
+[![Instagram](https://img.shields.io/badge/rzashakeri-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rzashakeri/)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/rzashakeri-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rzashakeri)&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/rzashakeri/)&nbsp;&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rzashakeri//)&nbsp;&nbsp;
+[![telegram](https://img.shields.io/badge/rzashakeri-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rzashakeri/)&nbsp;&nbsp;&nbsp;
+[![gitlab](https://img.shields.io/badge/rzashakeri-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rzashakeri)
+
+ 
+</div>  
+<p align="justify"> 
+welcome to my GitHub Page. I am Khushi Gupta and now BCA student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+ 
+
+</p>
+
+## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>redis
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+          <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" /> -->
+      <br>ASP.NET
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+              <td align="center" width="96">
+<!--         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" /> -->
+      <br>JQuery
+    </td>
+ </tr>
+</table>
 
 
-### Summary
-A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
+## Github stats 📊 
 
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
 
-# 💫 About Me:
-<br>
-👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
-💬 Ask me about Coding...<br>
-👯 Interested in backend technologies....<br>
-👯 Self Motivated<br>
-⚡ Quick learner<br>
-💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+ 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+</details>
 
-📫 How to reach me: heyabhijeet01@gmail.com <br>
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
- 👨‍💻 Portfolio [https://abhijeetsharma1.github.io/](https://abhijeetsharma1.github.io/)
- <br>
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1f9OX-cykaqaMVnjLB_UdWFrPkmRBVgA0/view?usp=drivesdk)<br>
+</details>
 
+## Recent GitHub Activity ✅
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#26](https://github.com/rzashakeri/beautify-github-profile/issues/26) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. 🎉 Merged PR [#26](https://github.com/rzashakeri/beautify-github-profile/pull/26) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. ❗️ Closed issue [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+5. 🗣 Commented on [#25](https://github.com/rzashakeri/beautify-github-profile/issues/25) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+<!--END_SECTION:activity-->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetsharma1/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/AbhijeetSharma_) 
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhijeetSharma1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetSharma1&theme=radical&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sAbhijeetSharma1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhijeetSharma1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=AbhijeetSharma1&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!---
-khushi018/khusi018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
