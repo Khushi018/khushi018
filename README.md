@@ -36,6 +36,8 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi018&show_icons=true&locale=en" alt="khushi018" /></p> -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi018&" alt="khushi018" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +45,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khushi-gupta-39b784225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushi-gupta-39b784225/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/khushigupta18x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khushigupta18x" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi018&" alt="khushi018" /></p>
 
