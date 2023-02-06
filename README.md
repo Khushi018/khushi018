@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developemnt.**
 
-- 👨‍💻 Get my portfolio [{portfolio}]({[http://khushi018.github.io](http://127.0.0.1:5500/index.html)})
+- 👨‍💻  All of my projects are available at https://khushi018.github.io
 
 <!-- - 💬 Ask me about **Programming etc.** -->
 
