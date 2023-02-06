@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developemnt.**
 
-- 👨‍💻 All of my projects are available at [{kg-port}]({khushi018.github.io})
+- 👨‍💻 Get my portfolio [{portfolio}]({http://khushi018.github.io})
 
 <!-- - 💬 Ask me about **Programming etc.** -->
 
