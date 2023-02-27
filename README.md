@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developemnt.**
 
-- 👨‍💻  All of my projects are available at https://khushi018.github.io
+- 👨‍💻  All of my projects are available at https://khushi018.github.io/
 
 <!-- - 💬 Ask me about **Programming etc.** -->
 
