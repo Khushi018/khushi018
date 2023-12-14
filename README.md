@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta.</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 <!-- <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Profile;Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div> -->
@@ -11,38 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi018&label=Profile%20views&color=0e75b6&style=flat" alt="khushi018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi018" alt="khushi018" /></a> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/khushi018g" target="blank"><img src="https://img.shields.io/twitter/follow/khushi018g?logo=twitter&style=for-the-badge" alt="khushi018g" /></a> </p> -->
-
-<!-- - 🔭 I’m currently working on **Currency Converter Program** -->
-
 - 🌱 I’m currently learning **Full Stack Web Developemnt.**
 
 - 👨‍💻  All of my projects are available at https://khushi018.github.io/
 
-<!-- - 💬 Ask me about **Programming etc.** -->
-
 - 📫 How to reach me **khushigupta.of@gmail.com**
-
-<!-- - 📄 Know about my experiences [{khushi}]({khushi}) -->
-
-<!-- - ⚡ Fun fact **I am Funny** -->
-
-
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi018&show_icons=true&locale=en&layout=compact" alt="khushi018" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi018&show_icons=true&locale=en" alt="khushi018" /></p> -->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi018&" alt="khushi018" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khushi018g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushi018g" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/khushi-gupta-39b784225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="not got" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/https://www.hackerrank.com/khushigupta18x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khushigupta18x" height="30" width="40" /></a> -->
 </p>
 
