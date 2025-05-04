@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khushigupta.of@gmail.com**
 
-- 📄 My portfolio website [https://khushi018.github.io/](https://khushi018.github.io/)
+- 📄 My portfolio website https://khushi018.github.io/khushi-gupta-portfolio/
 
 
 Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
