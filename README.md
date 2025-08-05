@@ -77,7 +77,7 @@ Experienced Java Backend Developer with expertise in Java, Spring Boot, and REST
 
 
 # 💻 Projects:
-- You can find my projects <a href="https://khushi018.github.io/" target="_blank">here</a>
+- You can find my projects <a href="https://khushi018.github.io/khushi-gupta-portfolio/" target="_blank">here</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khushi018&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
