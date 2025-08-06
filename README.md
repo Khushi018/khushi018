@@ -20,11 +20,8 @@ Passionate and goal-oriented Software Engineer with 2 years of experience in des
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=maven" width="55" height="55" /><br>Maven</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gradle" width="55" height="55" /><br>Gradle</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-    
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>    
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code</td>
-
-
 </tr>
 
 
