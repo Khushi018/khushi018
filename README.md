@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h2 align="center">A Passionate Software Developer from India💻.</h2>
 
-Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
+Passionate and goal-oriented Software Engineer with 2 years of experience in designing and developing scalable backend systems using Java, Spring Boot, and RESTful APIs. Enthusiastic about AI/ML, with a strong foundation in software engineering principles. Committed to continuous learning and growth in microservices architecture, cloud platforms, and high-level system design. Demonstrates excellent communication and leadership skills, with a proven ability to take initiative, mentor peers, and drive projects to successful completion in collaborative environments.
 
 - 📫 How to reach me - **khushigupta.of@gmail.com**
 - 📄 My portfolio website - https://khushi018.github.io/khushi-gupta-portfolio/
