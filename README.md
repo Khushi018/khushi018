@@ -3,8 +3,8 @@
 
 Passionate and goal-oriented Software Engineer with 2 years of experience in designing and developing scalable backend systems using Java, Spring Boot, and RESTful APIs. Enthusiastic about AI/ML, with a strong foundation in software engineering principles. Committed to continuous learning and growth in microservices architecture, cloud platforms, and high-level system design. Demonstrates excellent communication and leadership skills, with a proven ability to take initiative, mentor peers, and drive projects to successful completion in collaborative environments.
 
-- 📫 How to reach me - **khushigupta.of@gmail.com**
-- 📄 My portfolio website - https://khushi018.github.io/khushi-gupta-portfolio/
+- How to reach me - **khushigupta.of@gmail.com**
+- My portfolio website - https://khushi018.github.io/khushi-gupta-portfolio/
 - You can find my projects on <a href="https://khushi018.github.io/khushi-gupta-portfolio/" target="_blank">Portfolio</a>
 
 ---
