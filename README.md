@@ -24,7 +24,6 @@ Passionate and goal-oriented Software Engineer with 2 years of experience in des
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code</td>
 </tr>
 
-
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
@@ -61,6 +60,7 @@ Passionate and goal-oriented Software Engineer with 2 years of experience in des
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker</td>
   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55"/><br>Jenkins</td>
   </tr>
+  
    <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
