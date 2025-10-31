@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
-<h2 align="center">A Passionate Software Developer from India💻.</h2>
+<h2 align="center">A Passionate Software Developer from India.</h2>
 
 Passionate and goal-oriented Software Engineer with 2 years of experience in designing and developing scalable backend systems using Java, Spring Boot, and RESTful APIs. Enthusiastic about AI/ML, with a strong foundation in software engineering principles. Committed to continuous learning and growth in microservices architecture, cloud platforms, and high-level system design. Demonstrates excellent communication and leadership skills, with a proven ability to take initiative, mentor peers, and drive projects to successful completion in collaborative environments.
 
